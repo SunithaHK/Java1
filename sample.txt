@@ -1,2 +1,3 @@
 hello moksha
 hello i am using git status to reflect it into remote repository
+i am changing here to know changes in my github folder ,go to github folder and rigth click goto git bash here and git pull and to check changes type git status
